@@ -50,13 +50,15 @@ Licensing Information
 DocBank is licensed under the Apache 2.0 License.
 Citation Information
 
-@article{li2020docbank,
-  title={DocBank: A Benchmark Dataset for Document Layout Analysis},
-  author={Minghao Li and Yiheng Xu and Lei Cui and Shaohan Huang and Furu Wei and Zhoujun Li and Ming Zhou},
-  year={2020},
-  eprint={2006.01038},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
+```bibtex
+@article{   li2020docbank,
+  title          =   { DocBank: A Benchmark Dataset for Document Layout Analysis },
+  author         =   { Minghao Li and Yiheng Xu and Lei Cui and Shaohan Huang and Furu Wei and Zhoujun Li and Ming Zhou },
+  year           =   { 2020 },
+  eprint         =   { 2006.01038 },
+  archivePrefix  =   { arXiv },
+  primaryClass   =   { cs.CL }
 }
+```
 
 For more details or inquiries, please refer to the DocBank [https://doc-analysis.github.io/docbank-page/] repository or contact the dataset curators.
